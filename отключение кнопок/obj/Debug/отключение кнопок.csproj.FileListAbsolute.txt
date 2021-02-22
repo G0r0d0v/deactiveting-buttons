@@ -1,0 +1,10 @@
+C:\Users\Gorod\source\repos\отключение кнопок\bin\Debug\отключение кнопок.exe.config
+C:\Users\Gorod\source\repos\отключение кнопок\bin\Debug\отключение кнопок.exe
+C:\Users\Gorod\source\repos\отключение кнопок\bin\Debug\отключение кнопок.pdb
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение кнопок.csprojAssemblyReference.cache
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение_кнопок.Form1.resources
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение_кнопок.Properties.Resources.resources
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение кнопок.csproj.GenerateResource.cache
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение кнопок.csproj.CoreCompileInputs.cache
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение кнопок.exe
+C:\Users\Gorod\source\repos\отключение кнопок\obj\Debug\отключение кнопок.pdb
